@@ -25,7 +25,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <ul>
   <li>[x] Identifica o usuário que fez cada requisição</li>
-  <li>[x] O usuário só pode visualizar transações o qual ele criou;</li>
+  <li>[x] O usuário só pode visualizar transações as quais ele criou</li>
 </ul>
 
 ## 📦️ Como baixar e rodar o projeto
